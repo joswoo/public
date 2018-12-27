@@ -51,7 +51,7 @@
 
 ### 팀원 3.
 
-이름 : 심재훈  
+이름 : [심재훈](https://github.com/JAEHUNSIM)
 별명 : 타푸  
 성격 : 내성적이지만 친근한 성격  
 연말 계획: 스파크, 알고리즘 공부  
@@ -63,7 +63,7 @@
 
 ### 팀원 4.
 
-이름 : 이한솔  
+이름 : [이한솔](https://github.com/onenumbersol) 
 별명 : 징징이  
 성격 : 소극적, 독립적  
 연말 계획 : LoL KeSPA CUP 2018 FINALS에 갈 예정 ^^!
@@ -81,7 +81,7 @@
 <img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/50469294-15422180-09ef-11e9-81a3-df108043875e.jpg">
 </div>  
 
-이름 : 조성우  
+이름 : [조성우](https://github.com/joswoo)  
 별명 : 거북
 성격 : 꼼꼼하고 차분한 성격  
 연말 계획 : 자취방 이사 계획, 강원도 놀러갈 예정!!  
