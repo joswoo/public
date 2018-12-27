@@ -41,15 +41,19 @@
 별명 : ㅁㄴㅇㄹ
 성격 : ㄹㅇㅁ
 연말 계획 : 자취방 구하러 돌아다닐 예정
+<img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/42135427-c6413a9e-7d85-11e8-9220-e7b96461c4d5.png">
 
+---
 
 ---
 
 이름 : 이한솔  
-별명 :   
+별명 : 
 성격 : 소극적, 독립적  
 연말 계획 : LoL KeSPA CUP 2018 FINALS에 갈 예정 ^^!
-<img src="https://user-images.githubusercontent.com/27047621/50469271-00fe2480-09ef-11e9-9a4e-6664d52ea2e0.PNG" alt="default" style="max-width:100%;">
+<div>
+<img src="https://user-images.githubusercontent.com/27047621/50469271-00fe2480-09ef-11e9-9a4e-6664d52ea2e0.PNG" alt="default" style="max-width:100% align="center";">
+</div>
 
 ---
 
