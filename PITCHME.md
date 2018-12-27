@@ -19,8 +19,8 @@
 연말 계획 및 12월 31일에 하고 싶은 것
 
 ---
-<img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/50469184-b11f5d80-09ee-11e9-9f31-4c25796aa0b5.jpeg">
 <img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/50469199-bd0b1f80-09ee-11e9-9b50-f256b6bd320f.jpg">
+<img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/50469184-b11f5d80-09ee-11e9-9f31-4c25796aa0b5.jpeg">
 <img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/50469214-c7c5b480-09ee-11e9-8a69-c990d56e1bb3.jpeg">
 
 
@@ -42,7 +42,9 @@
 별명 : 엘메  
 성격 : 느긋한 성격  
 연말 계획 : 자취방 구하러 돌아다닐 예정  
-
+<div>
+<img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/50469184-b11f5d80-09ee-11e9-9f31-4c25796aa0b5.jpeg">
+  </div>
 ---
 
 이름 : 심재훈  
@@ -61,7 +63,9 @@
 </div>
 
 ---
+<div>
 <img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/50469294-15422180-09ef-11e9-81a3-df108043875e.jpg">
+  </div>
 이름 : 조성우  
 별명 :   
 성격 : 꼼꼼하고 차분한 성격  
