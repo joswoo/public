@@ -10,15 +10,8 @@
 5. 조성우
 6. 황유성
 ---
-## 슬라이드 3
+### 팀원 사진
 
-
-
-팀원들의 이름과 별명, 성격
-팀원 또는 팀원들의 특징을 잘 나타낼 수 있는 사진
-연말 계획 및 12월 31일에 하고 싶은 것
-
----
 <img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/50469199-bd0b1f80-09ee-11e9-9b50-f256b6bd320f.jpg">
 <img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/50469184-b11f5d80-09ee-11e9-9f31-4c25796aa0b5.jpeg">
 <img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/50469214-c7c5b480-09ee-11e9-8a69-c990d56e1bb3.jpeg">
