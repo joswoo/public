@@ -3,12 +3,12 @@
 ## 9반 Go뇌
 ---
 ### 팀원
-1. 김용민
-2. 김경수
+1. [김용민](https://gitpitch.com/joswoo/public#/3)
+2. [김경수](https://gitpitch.com/joswoo/public#/4)
 3. [심재훈](https://gitpitch.com/joswoo/public#/5)
-4. 이한솔
-5. 조성우
-6. 황유성
+4. [이한솔](https://gitpitch.com/joswoo/public#/6)
+5. [조성우](https://gitpitch.com/joswoo/public#/7)
+6. [황유성](https://gitpitch.com/joswoo/public#/8)
 ---
 ### 팀원 사진
 
