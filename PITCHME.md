@@ -59,7 +59,7 @@
 성격 : 내성적이지만 친근한 성격  
 연말 계획: 스파크, 알고리즘 공부
 
-<img src="https://tooapp.kr/app/lol.php?user=feliz1125" align="center";>
+<img width="171" alt="default" src="https://tooapp.kr/app/lol.php?user=feliz1125" align="center">
 
 ---
 
