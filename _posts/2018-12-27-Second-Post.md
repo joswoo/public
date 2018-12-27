@@ -4,7 +4,7 @@ title : 2주차 Reflection 나만의 챗봇 - 명세서 작성
 
 # SSAFY Start Camp 챗봇 퀘스트
 
-서울_9_Go뇌, https://github.com/joswoo/slackbot.git
+서울_9_Go뇌, <https://github.com/joswoo/slackbot.git>
 
 ## 1. 스펙(Specification)
 
