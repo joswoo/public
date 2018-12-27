@@ -40,18 +40,15 @@
 </div>
   
 ---
-@snap
 이름 : 심재훈  
 별명 : 타푸  
 성격 : 내성적이지만 친근한 성격  
 연말 계획: 스파크, 알고리즘 공부  
-<img width="171" alt="default" src="https://raw.githubusercontent.com/JaehunSim/JaehunSim.github.io/master/assets/images/tier.PNG" align="center">
+@snap[south span-55]
 @ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
+- <img width="171" alt="default" src="https://raw.githubusercontent.com/JaehunSim/JaehunSim.github.io/master/assets/images/tier.PNG" align="center">
 @ulend
+@snapend
 
 ---
 
