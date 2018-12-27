@@ -26,3 +26,10 @@
 <img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/42135427-c6413a9e-7d85-11e8-9220-e7b96461c4d5.png">
 <img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/42135427-c6413a9e-7d85-11e8-9220-e7b96461c4d5.png">
 <img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/42135427-c6413a9e-7d85-11e8-9220-e7b96461c4d5.png">
+
+
+---
+이름 : 김용민
+별명 : 밥대장
+성격 : 낙천적인 성격
+연말 계획 : 천안에 내려가서 가족들과 시간을 보내고 내년을 맞이하는 심신 수련을 한다.
