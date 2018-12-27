@@ -78,15 +78,13 @@
 
 ### 팀원 5.
 
+이름 : [조성우](https://github.com/joswoo)  
+별명 : 거북이  
+성격 : 꼼꼼하고 차분한 성격  
+연말 계획 : 자취방 이사 계획, 강원도 놀러갈 예정!!  
 <div>
 <img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/50469294-15422180-09ef-11e9-81a3-df108043875e.jpg">
 </div>  
-
-이름 : [조성우](https://github.com/joswoo)  
-별명 : 거북이
-
-성격 : 꼼꼼하고 차분한 성격  
-연말 계획 : 자취방 이사 계획, 강원도 놀러갈 예정!!  
 
 [팀원 목록](https://gitpitch.com/joswoo/public#/1)
 
