@@ -40,14 +40,16 @@
 </div>
   
 ---
-
+@snap
 이름 : 심재훈  
 별명 : 타푸  
 성격 : 내성적이지만 친근한 성격  
-연말 계획: 스파크, 알고리즘 공부  
+연말 계획: 스파크, 알고리즘 공부 
 @ul
 -<img width="171" alt="default" src="https://raw.githubusercontent.com/JaehunSim/JaehunSim.github.io/master/assets/images/tier.PNG" align="center">
 @ulend
+@snapend
+
 ---
 
 이름 : 이한솔  
