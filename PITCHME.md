@@ -100,3 +100,5 @@
 [팀원 목록](https://gitpitch.com/joswoo/public#/1)
 
 ---
+
+# 감사합니다.
