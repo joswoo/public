@@ -46,6 +46,12 @@
 성격 : 내성적이지만 친근한 성격  
 연말 계획: 스파크, 알고리즘 공부  
 <img width="171" alt="default" src="https://raw.githubusercontent.com/JaehunSim/JaehunSim.github.io/master/assets/images/tier.PNG" align="center">
+@ul[spaced text-white]
+- You will be amazed
+- What you can achieve
+- *With a little imagination...*
+- And **GitPitch Markdown**
+@ulend
 
 ---
 
