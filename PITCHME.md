@@ -38,7 +38,7 @@
 ---
 
 이름 : 김경수
-별명 :   
+별명 : ㅁㄴㅇㄹ
 성격 : 
 연말 계획 : 자취방 구하러 돌아다닐 예정
 <img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/42135427-c6413a9e-7d85-11e8-9220-e7b96461c4d5.png">
