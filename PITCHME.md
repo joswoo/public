@@ -31,6 +31,7 @@
 성격 : 낙천적인 성격  
 연말 계획 : 천안에 내려가서 가족들과 시간을 보내고 내년을 맞이하는 심신 수련을 한다.  
 <img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/50469199-bd0b1f80-09ee-11e9-9b50-f256b6bd320f.jpg">
+
 [팀원 목록](https://gitpitch.com/joswoo/public#/1)
 
 ---
