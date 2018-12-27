@@ -1,6 +1,30 @@
 ---
-title : 2주차
+title : 2주차 Reflection 나만의 챗봇 - 명세서 작성
 ---
 
-## Chat Bot
-Elice 플랫폼과 Slack을 이용하여 챗봇을 처음 만들어 보았다.
+# SSAFY Start Camp 챗봇 퀘스트
+
+서울_9_Go뇌, https://github.com/joswoo/slackbot.git
+
+## 1. 스펙(Specification)
+
+구현된 어플리케이션의 주요 기능
+
+- ooo 기능
+- ooo 기능
+- ooo 기능
+- ooo 기능
+
+### 2. 회고(Retrospective)
+
+어플리케이션 구현 과정에서의 어려움과 문제점
+- 데이터 크롤링 어려움
+
+### 3. 보완계획(Feedback)
+
+현재 미완성이지만 추가로 구현할 기능 및 기존 문제점 보완 계획
+
+- ooo 기능
+- ooo 기능
+- ooo 기능
+- ooo 기능
